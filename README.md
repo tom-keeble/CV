@@ -23,3 +23,18 @@ Research support and project implementation in the area of post-fire hydrogeomor
   - **_Technologies used:_** R, Python, QGIS, ArcGIS.
 <br><br>
 
+
+## 🏆 Accomplishments
+
+**Dean's Honours List** @ [University of Melbourne - Faculty of Science](https://science.unimelb.edu.au/students/current-students-news-events/celebrating-our-best-students-with-deans-honours3) _(Aug 2022)_ <br>
+The Dean’s Honour List acknowledges outstanding academic achievement and endeavour for completed graduate students in the Faculty of Science. Awarded to the top percentage of the 2021 academic year cohort.
+
+**Walter Massy-Greene Prize 2021** @ [University of Melbourne](https://scholarships.unimelb.edu.au/awards/walter-massy-greene-prize) _(Jul 2022)_ <br>
+A prize awarded to the highest placed student in the final year of the Master of Ecosystem Management and Conservation, as nominated by the head of the School of Ecosystem and Forest Sciences.
+<br><br>
+
+**John Chinner Medal 2020** @ [University of Melbourne](https://scholarships.unimelb.edu.au/awards/john-chinner-medal) _(Dec 2020)_<br>
+This scholarship is awarded to a Master of Ecosystem Management and Conservation student who has completed study in the discipline of Conserving and Managing Native Forests, based on demonstrated academic merit.
+<br><br>
+
+**Melbourne Global Scholars Award 2016** @ [University of Melbourne](https://scholarships.unimelb.edu.au/awards/mobility-awards) _(Feb 2016)_<br>
