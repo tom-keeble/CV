@@ -40,7 +40,7 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 
 **Master of Ecosystem Management and Conservation** <br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/) - Parkville, Victoria, Australia _(Feb 2020 - Jun 2021)_ <br>
-**_Weighted Average Mark (WAM):_** 89.6
+**_Weighted Average Mark (WAM):_** 89.6 <br>
 Scope of coursework included landscape and forest ecology, ecological restoration, soil and hydrographic processes, fire ecology and management, environmental modelling, spatial and data analysis, governance and policy, and community engagement. 
 <br><br>
 
@@ -51,7 +51,7 @@ Scope of coursework included landscape and forest ecology, ecological restoratio
 
 **Bachelor of Science** in Geography<br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/geography/) - Parkville, Victoria, Australia _(2013 - 2016)_ <br>
-**_Weighted Average Mark (WAM):_** 76.2
+**_Weighted Average Mark (WAM):_** 76.2 <br>
 Geography major with a broad mixed focus on both social and physical science fields encompassing environmental science, ecology, Indigenous studies, social theory and demography. 
 <br><br>
 
