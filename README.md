@@ -29,7 +29,7 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 - Conducted intensive surveys for critically threatened species, assessed and characterised forest areas and individual trees for habitat use and value, and evaluated growth stages to define old growth status.
 - Collected and managed geospatial survey data and implemented quality control checks to ensure its accuracy and completeness.
 - Liaised and coordinated with contract manager to establish efficient operational priorities and delivery of collected data.
-- **_Technologies used:_** GPS navigation, spatial collection applications.
+- **_Technologies used:_** GPS navigation, spatial collection applications ([Survey123](https://survey123.arcgis.com/), [FieldMaps](https://www.arcgis.com/apps/fieldmaps/).
 <br><br>
 
 **Bushland Maintenance Officer** @ [City of Whittlesea](https://www.whittlesea.vic.gov.au/) _(Jan 2021 - May 2021)_ <br>
