@@ -10,7 +10,7 @@ _Natural hazards researcher and biophysical modeller based in Melbourne, Austral
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
   - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model.
   - Managed the HydroFire phase 4 project from initiation to delivery, ensuring stakeholder engagement and funder satisfaction.
-    - Developed a [post-fire flash flood model and runtime architecture](https://github.com/tom-keeble/HydroFire_FlashFlood) for use as rapid risk assessment software.
+    - Developed a [post-fire flash flood model and associated runtime architecture](https://github.com/tom-keeble/HydroFire_FlashFlood) for use as rapid risk assessment software.
     - Built conceptual framework and model architecture for a post-fire water quality model and oversaw its backend development.
     - Developed R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods.
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
