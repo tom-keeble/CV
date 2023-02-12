@@ -8,10 +8,10 @@ _Natural hazards researcher and biophysical modeller based in Melbourne, Austral
 
 **Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(Feb 2023 - Present)_ <br>
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
+  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model.
   - Managed the HydroFire phase 4 project from initiation to delivery, ensuring stakeholder engagement and funder satisfaction.
     - Developed a [post-fire flash flood model and runtime architecture](https://github.com/tom-keeble/HydroFire_FlashFlood) for use as rapid risk assessment software.
     - Built conceptual framework and model architecture for a post-fire water quality model and oversaw its backend development.
-  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model.
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
 <br><br>
 
@@ -28,6 +28,7 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 - Conducted intensive surveys for critically threatened species, assessed and characterised forest areas and individual trees for habitat use and value, and evaluated growth stages to define old growth status.
 - Collected and managed geospatial survey data and implemented quality control checks to ensure its accuracy and completeness.
 - Liaised and coordinated with contract manager to establish efficient operational priorities and delivery of collected data.
+- **_Technologies used:_** GPS navigation, spatial collection applications.
 <br><br>
 
 **Bushland Maintenance Officer** @ [City of Whittlesea](https://www.whittlesea.vic.gov.au/) _(Jan 2021 - May 2021)_ <br>
@@ -41,7 +42,7 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 **Master of Ecosystem Management and Conservation** <br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/) - Parkville, Victoria, Australia _(Feb 2020 - Jun 2021)_ <br>
 **_Weighted Average Mark (WAM):_** 89.6 <br>
-Scope of coursework included landscape and forest ecology, ecological restoration, soil and hydrographic processes, fire ecology and management, environmental modelling, spatial and data analysis, governance and policy, and community engagement. 
+- Scope of coursework included landscape and forest ecology, ecological restoration, soil and hydrographic processes, fire ecology and management, environmental modelling, spatial and data analysis, governance and policy, and community engagement. 
 <br><br>
 
 **Graduate Certificate of Outdoor and Environmental Education** <br>
@@ -52,7 +53,7 @@ Scope of coursework included landscape and forest ecology, ecological restoratio
 **Bachelor of Science** in Geography<br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/geography/) - Parkville, Victoria, Australia _(2013 - 2016)_ <br>
 **_Weighted Average Mark (WAM):_** 76.2 <br>
-Geography major with a broad mixed focus on both social and physical science fields encompassing environmental science, ecology, Indigenous studies, social theory and demography. 
+- Geography major with a broad mixed focus on both social and physical science fields encompassing environmental science, ecology, Indigenous studies, social theory and demography. 
 <br><br>
 
 ## 🏆 Accomplishments
