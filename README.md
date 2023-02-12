@@ -37,6 +37,12 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 - Developing a vegetation type monitoring system to assess contractor weed management performance post ecological burn operations, thereby ensuring efficient and cost-effective contract delivery.
 <br><br>
 
+_Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
+  - Guiding a broad range of single-day tours, through to 14-day expeditions throughout Australian National Parks and wilderness areas for various schools, including: hiking; bushwalking; canoeing; skiing; and conservation-focused trips.
+- Managed logistics, safety and participant wellbeing in compliance with Adventure Activity Standard (AAS) Guidelines.
+- Facilitated participant learning and development using a range of teaching tools in conjunction with the outdoor experience.
+<br><br>
+
 ## 👩🏼‍🎓 Education
 
 **Master of Ecosystem Management and Conservation** <br>
