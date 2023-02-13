@@ -8,7 +8,7 @@ _Natural hazards researcher and biophysical modeller based in Melbourne, Austral
 
 **Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(Feb 2023 - Present)_ <br>
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
-  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model.
+  - Oversaw use and contributed to development of a spatio-temporal fuel moisture content prediction machine learning model.
   - Managed the HydroFire phase 4 project from initiation to delivery, ensuring stakeholder engagement and funder satisfaction.
     - Developed a [post-fire flash flood model and associated runtime architecture](https://github.com/tom-keeble/HydroFire_FlashFlood) for use as rapid risk assessment software.
     - Built conceptual framework and model architecture for a post-fire water quality model and oversaw its backend development.
