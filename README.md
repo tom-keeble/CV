@@ -8,15 +8,12 @@ _Natural hazards researcher and biophysical modeller based in Melbourne, Austral
 
 **Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(Feb 2023 - Present)_ <br>
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
-  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model ([Publication](#fmc_modsim)).
-<br>
+  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model ([Publication](#fmc_modsim)). <br>  
   - Managed the HydroFire phase 4 project from initiation to delivery, ensuring stakeholder engagement and funder satisfaction.
     - Developed  a [post-fire flash flood model](https://github.com/tom-keeble/HydroFire_FlashFlood) and a [post-fire water quality risk model](https://github.com/tom-keeble/HydroFire_WaterQuality) bundled as software for use by land managers and related agencies for planning purposes and rapid risk assessment.
     - Built conceptual framework and model architecture for said models and provided consultation regarding their backend development and implementation within government systems.
-    - Developed supporting R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods.
-<br>
-  - Implemented and validated state-of-the-art changes to the [Integrated Forest Ecosystem Research Decision Support System (DSS)](https://www.ffm.vic.gov.au/__data/assets/pdf_file/0019/410941/IFER-DSS-Fact-Sheet-Final.pdf) water yield model predictions, incorporating recent novel findings of [Inbar et al. (2022)](https://doi.org/10.1016/j.scitotenv.2022.158410) and [Benyon et al. (2023)](https://doi.org/10.1016/j.jhydrol.2023.129157).
-<br>
+    - Developed supporting R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods. <br>  
+  - Implemented and validated state-of-the-art changes to the [Integrated Forest Ecosystem Research Decision Support System (DSS)](https://www.ffm.vic.gov.au/__data/assets/pdf_file/0019/410941/IFER-DSS-Fact-Sheet-Final.pdf) water yield model predictions, incorporating recent novel findings of [Inbar et al. (2022)](https://doi.org/10.1016/j.scitotenv.2022.158410) and [Benyon et al. (2023)](https://doi.org/10.1016/j.jhydrol.2023.129157). <br>  
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
 <br><br>
 
@@ -34,7 +31,7 @@ Responsible for planning and delivery of flora surveys in remote, pre-harvest fo
 - Conducted intensive surveys for critically threatened species, assessed and characterised forest areas and individual trees for habitat use and value, and evaluated growth stages to define old growth status.
 - Collected and managed geospatial survey data and implemented quality control checks to ensure its accuracy and completeness.
 - Liaised and coordinated with contract manager to establish efficient operational priorities and delivery of collected data.
-- **_Technologies used:_** GPS navigation, spatial survey data collection apps ([Survey123](https://survey123.arcgis.com/), [FieldMaps](https://www.arcgis.com/apps/fieldmaps/)).
+- **_Technologies used:_** GPS navigation, spatial survey data collection (via Esri [Survey123](https://survey123.arcgis.com/) and [FieldMaps](https://www.arcgis.com/apps/fieldmaps/) apps).
 <br><br>
 
 **Bushland Maintenance Officer** @ [City of Whittlesea](https://www.whittlesea.vic.gov.au/) _(Jan 2021 - May 2021)_ <br>
