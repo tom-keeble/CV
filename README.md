@@ -8,20 +8,24 @@ _Natural hazards researcher and biophysical modeller based in Melbourne, Austral
 
 **Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(Feb 2023 - Present)_ <br>
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
-  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model ([Related publication](#fmc_modsim)). <br>
+  - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model ([Publication](#fmc_modsim)).
+<br>
   - Managed the HydroFire phase 4 project from initiation to delivery, ensuring stakeholder engagement and funder satisfaction.
     - Developed  a [post-fire flash flood model](https://github.com/tom-keeble/HydroFire_FlashFlood) and a [post-fire water quality risk model](https://github.com/tom-keeble/HydroFire_WaterQuality) bundled as software for use by land managers and related agencies for planning purposes and rapid risk assessment.
     - Built conceptual framework and model architecture for said models and provided consultation regarding their backend development and implementation within government systems.
     - Developed supporting R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods.
-  - Implemented and validated state-of-the-art changes to the [Integrated Forest Ecosystem Research Decision Support System (DSS)](https://www.ffm.vic.gov.au/__data/assets/pdf_file/0019/410941/IFER-DSS-Fact-Sheet-Final.pdf) water yield model predictions, incorporating recent novel findings of [Inbar et al. (2022)](https://doi.org/10.1016/j.scitotenv.2022.158410) and [Benyon et al. (2023)](https://doi.org/10.1016/j.jhydrol.2023.129157). <br>
+<br>
+  - Implemented and validated state-of-the-art changes to the [Integrated Forest Ecosystem Research Decision Support System (DSS)](https://www.ffm.vic.gov.au/__data/assets/pdf_file/0019/410941/IFER-DSS-Fact-Sheet-Final.pdf) water yield model predictions, incorporating recent novel findings of [Inbar et al. (2022)](https://doi.org/10.1016/j.scitotenv.2022.158410) and [Benyon et al. (2023)](https://doi.org/10.1016/j.jhydrol.2023.129157).
+<br>
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
 <br><br>
 
 **Research Assistant** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(March 2022 - Feb 2023)_ <br>
 Research support and project implementation in the area of post-fire hydrogeomorphic risk.
   - Implemented the HydroFire phase 3 project through milestone delivery to completion.
-    - Developed a post-fire debris flow runout model for use across the state of Victoria, Australia and produced a statewide spatial dataset of runout risk areas to better facilitate risk assessments ([Related publication](#df_preprint)).
+    - Developed a post-fire debris flow runout model for use across the state of Victoria, Australia and produced a statewide spatial dataset of runout risk areas to better facilitate risk assessments ([Publication](#df_preprint)).
     - Rectified extensive errors in historic geoprocessing methods and output datasets.
+<br>
   - **_Technologies used:_** R, Python, QGIS, ArcGIS.
 <br><br>
 
@@ -88,12 +92,6 @@ This scholarship is awarded to the student in graduate studies in the School of 
 
 ## 📖 Publications
 
-<a name="df_preprint">
-Keeble, T., Lyell, C.S, Lane, P.N.J, Nyman, P. and Sheridan, G. (*in review*). A Landscape Scale Post-Fire Debris Flow Frequency-Magnitude Impact Model. *Geomorphology*. Prepint available : [http://dx.doi.org/10.2139/ssrn.4513645](http://dx.doi.org/10.2139/ssrn.4513645)
-<br>
-</a>
+Keeble, T., Lyell, C.S, Lane, P.N.J, Nyman, P. and Sheridan, G. (*in review*). A Landscape Scale Post-Fire Debris Flow Frequency-Magnitude Impact Model. *Geomorphology*. Prepint available : [http://dx.doi.org/10.2139/ssrn.4513645](http://dx.doi.org/10.2139/ssrn.4513645) <br>
 
-<a name="fmc_modsim">
-Keeble, T.P., Lyell, C.S and Sheridan, G. (2023). A seven-day ahead bushfire fuel moisture forecasting system integrating an automated fuel sensor network, weather forecasts and a machine learning model. In Vaze, J., Chilcott, C., Hutley, L. and Cuddy, S.M. (eds) MODSIM2023, 25th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, July 2023, pp. 453. ISBN: 978-0-9872143-0-0. [https://doi.org/10.36334/modsim.2023.keeble](https://doi.org/10.36334/modsim.2023.keeble)
-<br>
-</a>
+Keeble, T.P., Lyell, C.S and Sheridan, G. (2023). A seven-day ahead bushfire fuel moisture forecasting system integrating an automated fuel sensor network, weather forecasts and a machine learning model. In Vaze, J., Chilcott, C., Hutley, L. and Cuddy, S.M. (eds) MODSIM2023, 25th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, July 2023, pp. 453. ISBN: 978-0-9872143-0-0. [https://doi.org/10.36334/modsim.2023.keeble](https://doi.org/10.36334/modsim.2023.keeble) <br>
