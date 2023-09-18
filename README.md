@@ -91,6 +91,6 @@ This scholarship is awarded to the student in graduate studies in the School of 
 
 ## 📖 Publications
 
-Keeble, T., Lyell, C.S, Lane, P.N.J, Nyman, P. and Sheridan, G. (*in review*). A Landscape Scale Post-Fire Debris Flow Frequency-Magnitude Impact Model. *Geomorphology*. Prepint available : [http://dx.doi.org/10.2139/ssrn.4513645](http://dx.doi.org/10.2139/ssrn.4513645) <br>
+Keeble, T., Lyell, C.S, Lane, P.N.J, Nyman, P. and Sheridan, G. (*under review*). A Landscape Scale Post-Fire Debris Flow Frequency-Magnitude Impact Model. *Geomorphology*. Prepint available : [http://dx.doi.org/10.2139/ssrn.4513645](http://dx.doi.org/10.2139/ssrn.4513645) <br>
 
 Keeble, T.P., Lyell, C.S and Sheridan, G. (2023). A seven-day ahead bushfire fuel moisture forecasting system integrating an automated fuel sensor network, weather forecasts and a machine learning model. In Vaze, J., Chilcott, C., Hutley, L. and Cuddy, S.M. (eds) MODSIM2023, 25th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, July 2023, pp. 453. ISBN: 978-0-9872143-0-0. [https://doi.org/10.36334/modsim.2023.keeble](https://doi.org/10.36334/modsim.2023.keeble) <br>
