@@ -28,7 +28,7 @@ Research support and project implementation in the area of post-fire hydrogeomor
   - **_Technologies used:_** R, Python, QGIS, ArcGIS.
 <br><br>
 
-**Forest Ecologist** @ [S & L Forestry](http://www.slforestry.com.au/) _(Aug 2021 - Oct 2021)_ <br>
+**Forest Ecologist** @ [S & L Forestry](http://www.slforestry.com.au/) _(Aug 2021 - Oct 2022)_ <br>
 Responsible for planning and delivery of flora surveys in remote, pre-harvest forest areas as part of large-scale contract works, whilst ensuring works occur safely and in compliance with the relevant legislation, including WHS&E.
 - Conducted intensive surveys for critically threatened species, assessed and characterised forest areas and individual trees for habitat use and value, and evaluated growth stages to define old growth status.
 - Collected and managed geospatial survey data and implemented quality control checks to ensure its accuracy and completeness.
