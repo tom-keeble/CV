@@ -22,7 +22,7 @@ Research and development of biophysical models for hydrology, geomorphology and 
 **Research Assistant** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(March 2022 - Feb 2023)_ <br>
 Research support and project implementation in the area of post-fire hydrogeomorphic risk.
   - Implemented the HydroFire phase 3 project through milestone delivery to completion.
-    - Developed a post-fire debris flow runout model for use across the state of Victoria, Australia and produced a statewide spatial dataset of runout risk areas to better facilitate risk assessments ([Publication](http://dx.doi.org/10.2139/ssrn.4513645)).
+    - Developed a post-fire debris flow runout model for use across the state of Victoria, Australia and produced a statewide spatial dataset of runout risk areas to better facilitate risk assessments ([Publication](https://doi.org/10.1016/j.geomorph.2024.109175)).
     - Rectified extensive errors in historic geoprocessing methods and output datasets.
 <br>
   - **_Technologies used:_** R, Python, QGIS, ArcGIS.
