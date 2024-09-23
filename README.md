@@ -69,7 +69,7 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 
 ## 🏆 Accomplishments
 
-[Rowden White Scholarship](https://scholarships.unimelb.edu.au/awards/rowden-white-scholarship) @ University of Melbourne _(Sep 2024)_ <br>
+[**Rowden White Scholarship**](https://scholarships.unimelb.edu.au/awards/rowden-white-scholarship) @ University of Melbourne _(Sep 2024)_ <br>
 
 [**Research Training Program (RTP) Scholarship**](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship) @ University of Melbourne _(Jul 2024)_ <br>
 
