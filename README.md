@@ -69,23 +69,23 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 
 ## 🏆 Accomplishments
 
-[**Rowden White Scholarship**](https://scholarships.unimelb.edu.au/awards/rowden-white-scholarship) @ University of Melbourne _(Sep 2024)_ <br>
+[Rowden White Scholarship](https://scholarships.unimelb.edu.au/awards/rowden-white-scholarship) @ University of Melbourne _(Sep 2024)_ <br>
 
-[**Research Training Program (RTP) Scholarship**](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship) @ University of Melbourne _(Jul 2024)_ <br>
+[Research Training Program (RTP) Scholarship](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship) @ University of Melbourne _(Jul 2024)_ <br>
 
-[**Dean's Honours List 2021 - Science**](https://science.unimelb.edu.au/students/scholarships/deans-honours-list-2024) @ University of Melbourne - Faculty of Science _(Aug 2022)_ <br>
+[Dean's Honours List 2021 - Science](https://science.unimelb.edu.au/students/scholarships/deans-honours-list-2024) @ University of Melbourne - Faculty of Science _(Aug 2022)_ <br>
 The Dean’s Honour List acknowledges outstanding academic achievement and endeavour for completed graduate students in the Faculty of Science. Awarded to the top percentage of the 2021 academic year cohort.
 <br>
 
-[**Walter Massy-Greene Prize 2021**](https://scholarships.unimelb.edu.au/awards/walter-massy-greene-prize) @ University of Melbourne _(Jul 2022)_ <br>
+[Walter Massy-Greene Prize 2021](https://scholarships.unimelb.edu.au/awards/walter-massy-greene-prize) @ University of Melbourne _(Jul 2022)_ <br>
 A prize awarded to the highest placed student in the final year of the Master of Ecosystem Management and Conservation, as nominated by the head of the School of Ecosystem and Forest Sciences.
 <br>
 
-[**John Chinner Medal 2020**](https://scholarships.unimelb.edu.au/awards/john-chinner-medal) @ University of Melbourne _(Dec 2020)_<br>
+[John Chinner Medal 2020](https://scholarships.unimelb.edu.au/awards/john-chinner-medal) @ University of Melbourne _(Dec 2020)_<br>
 This scholarship is awarded to the student in graduate studies in the School of Ecosystem and Forest Sciences who has achieved the most outstanding performance in field studies, including field practical exercises, throughout the program.
 <br>
 
-[**Melbourne Global Scholars Award 2016**](https://scholarships.unimelb.edu.au/awards/mobility-awards) @ University of Melbourne _(Feb 2016)_
+[Melbourne Global Scholars Award 2016](https://scholarships.unimelb.edu.au/awards/mobility-awards) @ University of Melbourne _(Feb 2016)_
 <br><br>
 
 ## 💬 Languages
