@@ -50,6 +50,10 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 
 ## 👩🏼‍🎓 Education
 
+**Doctor of Philosophy - Science** <br>
+[University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/) - Parkville, Victoria, Australia _(Jul 2024 - Present)_
+<br><br>
+
 **Master of Ecosystem Management and Conservation** <br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/) - Parkville, Victoria, Australia _(Feb 2020 - Jun 2021)_ <br>
 **_Weighted Average Mark (WAM):_** 89.6/100 <br>
@@ -95,6 +99,8 @@ This scholarship is awarded to the student in graduate studies in the School of 
 
 ## 📖 Publications
 
-Keeble, T., Lyell, C.S, Lane, P., Nyman, P., Noske, P.J. and Sheridan, G. (2024). A landscape scale model to predict post-fire debris flow impact zones. *Geomorphology*, *455*, 109175. [https://doi.org/10.1016/j.geomorph.2024.109175](https://doi.org/10.1016/j.geomorph.2024.109175) <br>
+**Keeble, T.**, Lyell, C.S, Lane, P., Nyman, P., Noske, P.J. and Sheridan, G. (2024). A landscape scale model to predict post-fire debris flow impact zones. *Geomorphology*, *455*, 109175. [https://doi.org/10.1016/j.geomorph.2024.109175](https://doi.org/10.1016/j.geomorph.2024.109175) <br>
 
-Keeble, T.P., Lyell, C.S and Sheridan, G. (2023). A seven-day ahead bushfire fuel moisture forecasting system integrating an automated fuel sensor network, weather forecasts and a machine learning model. In Vaze, J., Chilcott, C., Hutley, L. and Cuddy, S.M. (eds) MODSIM2023, 25th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, July 2023, pp. 453. ISBN: 978-0-9872143-0-0. [https://doi.org/10.36334/modsim.2023.keeble](https://doi.org/10.36334/modsim.2023.keeble) <br>
+**Keeble, T.P.**, Lyell, C.S and Sheridan, G. (2023). A seven-day ahead bushfire fuel moisture forecasting system integrating an automated fuel sensor network, weather forecasts and a machine learning model. In Vaze, J., Chilcott, C., Hutley, L. and Cuddy, S.M. (eds) MODSIM2023, 25th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, July 2023, pp. 453. ISBN: 978-0-9872143-0-0. [https://doi.org/10.36334/modsim.2023.keeble](https://doi.org/10.36334/modsim.2023.keeble) <br>
+
+Lyell, C.S., Nattala, U., **Keeble, T.**, Vella, E.M., Joshi, R.C., Joukhadar, Z., ... & Sheridan, G. (2024). Forecasting dead fuel moisture content below forest canopies–A seven-day forecasting system. *Agricultural and Forest Meteorology*, *358*, 110217. [https://doi.org/10.1016/j.agrformet.2024.110217](https://doi.org/10.1016/j.agrformet.2024.110217)
