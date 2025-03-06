@@ -16,7 +16,8 @@ Research and development of biophysical models for hydrology, geomorphology and 
     - Developed  a [post-fire flash flood model](https://github.com/tom-keeble/HydroFire_FlashFlood) and a [post-fire water quality risk model](https://github.com/tom-keeble/HydroFire_WaterQuality) bundled as software for use by land managers and related agencies for planning purposes and rapid risk assessment.
     - Built conceptual framework and model architecture for said models and provided consultation regarding their backend development and implementation within government systems.
     - Developed supporting R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods.
-  - Developed a model of wind speed reduction in forests that is able to be parameterised globally using spaceborne LiDAR [preprint publication](https://dx.doi.org/10.2139/ssrn.5054549).
+  - Developed a model of wind speed reduction in forests that is able to be parameterised globally using spaceborne LiDAR
+    - [Preprint publication](https://dx.doi.org/10.2139/ssrn.5054549).
   - Provided technical modelling and data analysis support across various projects spanning post-fire erosion mitigation to coloured water generation within forest ecosystems.
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
 <br><br>
