@@ -1,12 +1,14 @@
 # Tom Keeble
 
-_Natural hazards researcher and biophysical modeller based in Melbourne, Australia_ <br>
+_Research Fellow in natural hazards and biophysical modelling._
+_PhD Candidate in palaeofire modelling._
+_Based in Melbourne, Australia._<br>
 
 [Email](mailto:tomkeeble0@gmail.com) / [Website](https://tom-keeble.github.io/CV/) / [LinkedIn](https://www.linkedin.com/in/tom-keeble-674005205/) / [GitHub](https://github.com/tom-keeble/)
 
 ## 👩🏼‍💻 Experience
 
-**Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(Feb 2023 - Present)_ <br>
+**Research Fellow - Natural Hazards & Forest Biophysical Modeller** @ [Forest Hydrology Research Group](https://safes.unimelb.edu.au/research/forest-hydrology) _(Feb 2023 - Present)_ <br>
 Research and development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
   - Oversaw use and development of a spatio-temporal fuel moisture content prediction machine learning model.
     - [Publication](https://doi.org/10.36334/modsim.2023.keeble).
@@ -14,12 +16,12 @@ Research and development of biophysical models for hydrology, geomorphology and 
     - Developed  a [post-fire flash flood model](https://github.com/tom-keeble/HydroFire_FlashFlood) and a [post-fire water quality risk model](https://github.com/tom-keeble/HydroFire_WaterQuality) bundled as software for use by land managers and related agencies for planning purposes and rapid risk assessment.
     - Built conceptual framework and model architecture for said models and provided consultation regarding their backend development and implementation within government systems.
     - Developed supporting R package ([ARRtools](https://github.com/tom-keeble/ARRtools)) containing tools for implementing Australian Rainfall and Runoff (ARR) hydrology assessment methods.
-  - Implemented and validated state-of-the-art changes to the [Integrated Forest Ecosystem Research Decision Support System (DSS)](https://www.ffm.vic.gov.au/__data/assets/pdf_file/0019/410941/IFER-DSS-Fact-Sheet-Final.pdf) water yield model predictions, incorporating recent novel findings of [Inbar et al. (2022)](https://doi.org/10.1016/j.scitotenv.2022.158410) and [Benyon et al. (2023)](https://doi.org/10.1016/j.jhydrol.2023.129157).
-    - [Repository](https://github.com/tom-keeble/HydroFire_WaterYield).
+  - Developed a model of wind speed reduction in forests that is able to be parameterised globally using spaceborne LiDAR [preprint publication](https://dx.doi.org/10.2139/ssrn.5054549).
+  - Provided technical modelling and data analysis support across various projects spanning post-fire erosion mitigation to coloured water generation within forest ecosystems.
   - **_Technologies used:_** R, Python, ArcGIS, QGIS.
 <br><br>
 
-**Research Assistant** @ [Forest Hydrology Research Group](https://sefs-saf.unimelb.edu.au/research/themes/forests-and-water/) _(March 2022 - Feb 2023)_ <br>
+**Research Assistant** @ [Forest Hydrology Research Group](https://safes.unimelb.edu.au/research/forest-hydrology) _(March 2022 - Feb 2023)_ <br>
 Research support and project implementation in the area of post-fire hydrogeomorphic risk.
   - Implemented the HydroFire phase 3 project through milestone delivery to completion.
     - Developed a post-fire debris flow runout model for use across the state of Victoria, Australia and produced a statewide spatial dataset of runout risk areas to better facilitate risk assessments ([Publication](https://doi.org/10.1016/j.geomorph.2024.109175)).
@@ -51,7 +53,9 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 ## 👩🏼‍🎓 Education
 
 **Doctor of Philosophy - Science** <br>
-[University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/) - Parkville, Victoria, Australia _(Jul 2024 - Present)_
+[University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/) - Parkville, Victoria, Australia _(Jul 2024 - Present)_<br>
+**_Topic:_** Quantifying the relative contributions of human and non-human generated fire to vegetation dynamics in SE Australian palaeolandscapes.<br>
+- Situated within the [ARC Centre of Excellence for Indigenous and Environmental Histories and Futures (CIEHF)](https://ciehf.au/) as a member of both the [Palynology, Palaeoecology and Biogeography lab](https://sgeas.unimelb.edu.au/research/palynology-palaeoecology-and-biogeography) and the [Forest Hydrology Research group](https://safes.unimelb.edu.au/research/forest-hydrology).
 <br><br>
 
 **Master of Ecosystem Management and Conservation** <br>
@@ -74,8 +78,12 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 ## 🏆 Accomplishments
 
 [Rowden White Scholarship](https://scholarships.unimelb.edu.au/awards/rowden-white-scholarship) @ University of Melbourne _(Sep 2024)_ <br>
+Rowden White Scholarships are offered based on academic merit and relevant professional experience, determining research potential of the student in their field of study.
+<br>
 
-[Research Training Program (RTP) Scholarship](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship) @ University of Melbourne _(Jul 2024)_ <br>
+[Research Training Program (RTP) Scholarship](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship) @ Australian Commonwealth Government/University of Melbourne _(Jul 2024)_ <br>
+The Research Training Program Scholarship is supported by the Australian Commonwealth Government and the University of Melbourne, and offered to high-achieving domestic and international research students.
+<br>
 
 [Dean's Honours List 2021 - Science](https://science.unimelb.edu.au/students/scholarships/deans-honours-list-2024) @ University of Melbourne - Faculty of Science _(Aug 2022)_ <br>
 The Dean’s Honour List acknowledges outstanding academic achievement and endeavour for completed graduate students in the Faculty of Science. Awarded to the top percentage of the 2021 academic year cohort.
