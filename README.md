@@ -55,7 +55,7 @@ _Previously worked as an Outdoor Educator from Feb 2014 - Mar 2020_ <br>
 
 **Doctor of Philosophy - Science** <br>
 [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/) - Parkville, Victoria, Australia _(Jul 2024 - Present)_<br>
-**_Topic:_** Quantifying the relative contributions of human and non-human generated fire to vegetation dynamics in SE Australian palaeolandscapes.<br>
+- **_Topic:_** Quantifying the relative contributions of human and non-human generated fire to vegetation dynamics in SE Australian palaeolandscapes.<br>
 - Situated within the [ARC Centre of Excellence for Indigenous and Environmental Histories and Futures (CIEHF)](https://ciehf.au/) as a member of both the [Palynology, Palaeoecology and Biogeography lab](https://sgeas.unimelb.edu.au/research/palynology-palaeoecology-and-biogeography) and the [Forest Hydrology Research group](https://safes.unimelb.edu.au/research/forest-hydrology).
 <br><br>
 
