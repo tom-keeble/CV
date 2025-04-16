@@ -4,7 +4,7 @@ _Research Fellow in natural hazards and biophysical modelling._<br>
 _PhD Candidate in palaeofire modelling._<br>
 _Based in Narrm (Melbourne), Australia._<br>
 
-[Email](mailto:tomkeeble0@gmail.com) / [Website](https://tom-keeble.github.io/CV/) / [LinkedIn](https://www.linkedin.com/in/tom-keeble-674005205/) / [GitHub](https://github.com/tom-keeble/)
+[Email](mailto:tomkeeble0@gmail.com) / [Website](https://tom-keeble.github.io/) / [LinkedIn](https://www.linkedin.com/in/tom-keeble-674005205/) / [GitHub](https://github.com/tom-keeble/)
 
 ## 👩🏼‍💻 Experience
 
